@@ -1,4 +1,4 @@
-// this is ccmment
+// this is comment
 
 var age = document.getElementById("age");
 var height = document.getElementById("height");
